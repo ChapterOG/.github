@@ -4,6 +4,8 @@ Welcome to Varmet! We're a independent corporation that masters in online learni
 
 Crete a account for free at: https://www.varmet.net
 
+🔎Questions? Create a support ticket at https://varmet.net/contactus
+
 <!--
 
 **Here are some ideas to get you started:**
