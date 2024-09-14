@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-Welcome to Varmet! We're a independent corporation that masters in online learning. We engage your students to have fun in class. Can't wait for you to try it out!
+Varmet Software - Software that just works.
 
-Crete a account for free at: https://www.varmet.net
+We offer a wide variety of apps for our users to use. We'll let you know when we create new ones.
 
-🔎Questions? Create a support ticket at https://varmet.net/contactus
+Get started today! 
+https://varmet.net
 
 <!--
 
