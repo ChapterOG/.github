@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Varmet Software - Software that just works.
+Project Chapter OG - Relieve the good days
 
-We offer a wide variety of apps for our users to use. We'll let you know when we create new ones.
+Project Chapter OG offers all the resources you need to enjoy playing Project Chapter OG. We are a relatively new company and need more customers! Join today!
 
 Get started today! 
-https://varmet.net
+https://chapterog.com
 
 <!--
 
